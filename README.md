@@ -17,7 +17,7 @@ To run this project, you need to have the following installed:
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/your-username/car-detection-haar-cascade.git
+   git clone https://github.com/aliyuldashev/BSD_system.git
    cd car-detection-haar-cascade
    ```
 
